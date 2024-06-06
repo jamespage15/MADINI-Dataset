@@ -6,3 +6,4 @@ The DESTINI dataset contains 18,308 fragments of decorative stone from 13 sites 
 4.	DESTINI Publications Table (14 entries). This table contains information on each publication that recorded the fragments found in the Catalogue table.
 5.	DESTINI Stone Types Table (62 entries). This table contains typological and chronological information for the lithotypes identified in Northern Italy.
 
+The original database file, DESTINI Version 1.db has been uploaded, alongside each table as a .csv file. An overview of the database is available in the DESTINI Layout.pdf file
