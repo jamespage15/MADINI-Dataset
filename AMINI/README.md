@@ -6,4 +6,4 @@ The AMINI database contains 28,323 sherds of amphora from 32 urban sites across 
 4.	AMINI Publications Table (62 entries). This table contains information on each publication that recorded the amphora sherds found in the Catalogue table.
 5.	AMINI Standard Forms Table (165 entries). This table contains typological and chronological information for the amphora typologies identified in Northern Italy. 
 
-The original database file, AMINI Version 1.db has been uploaded, alongside each table as a .csv file. 
+The original database file, AMINI Version 1.db has been uploaded, alongside each table as a .csv file. An overview of the database is available in the AMINI Layout.pdf file. 
