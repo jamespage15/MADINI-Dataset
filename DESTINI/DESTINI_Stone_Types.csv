@@ -1,0 +1,63 @@
+Stone_ID,Stone_Type,Provenance_1,Provenance_2,Colour,CORSI_URL
+1,Unprovenanced_White_Marble,Not_Available,Not_Available,White,Not_Available
+2,White_Luna_Marble,Central_Italy_and_Liguria,Carrara,White,http://www.oum.ox.ac.uk/corsi/stones/view/8
+3,Prokonnesian,Asia_Minor,Marmara,White,http://www.oum.ox.ac.uk/corsi/stones/view/4
+4,Greco_Scritto,Asia_Minor,Ephesus,Grey,http://www.oum.ox.ac.uk/corsi/stones/view/99
+5,Pentelic,Greece_And_Aegean,Mt. Pentéli,White,http://www.oum.ox.ac.uk/corsi/stones/view/3
+6,Africano,Asia_Minor,Sigacik,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/101
+7,Cipollino_Verde,Greece_And_Aegean,Karystos,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/90
+8,Pavonazzetto,Asia_Minor,Iscehisar,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/123
+9,Giallo_Antico,Egypt_and_North_Africa,Chemtou,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/22
+10,Breccia_Corallina,Asia_Minor,Verzirhan,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/404
+11,Alabastro_Fiorito,Asia_Minor,Pamukkale,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/301
+12,Rosso_Antico,Greece_And_Aegean,Cape Matapan,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/61
+13,Pentelico_Grigio,Greece_And_Aegean,Mt. Pentéli,Grey,Not_Available
+14,Verde_Antico,Greece_And_Aegean,Larissa,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/565
+15,Portasanta,Greece_And_Aegean,Chios,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/77
+16,Ardesia,Northern_Italy,Genoa,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/562
+17,Arenaria,Northern_Italy,Not_Available,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/557
+18,Unprovenanced_Fine_Grained_White_Marble,Not_Available,Not_Available,White,Not_Available
+19,Unprovenanced_Medium_Grained_White_Marble,Not_Available,Not_Available,White,Not_Available
+20,Unprovenanced_Coarse_Grained_White_Marble,Not_Available,Not_Available,White,Not_Available
+21,Bardiglio,Central_Italy_and_Liguria,Carrara,Grey,http://www.oum.ox.ac.uk/corsi/stones/view/149
+22,Bigio_Antico,Greece_And_Aegean,Chios,Grey,http://www.oum.ox.ac.uk/corsi/stones/view/140
+23,Breccia_Settebasi,Greece_And_Aegean,Skyros,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/405
+24,Cipollino_Mandolato,Gaul,Haute Pyrénées,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/86
+25,Cipollino_Rosso,Asia_Minor,Kiyi Kislacik,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/95
+26,Fior_di_Pesco,Greece_And_Aegean,Eretria,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/118
+27,Granito_del_Foro,Egypt_and_North_Africa,Mons Claudianus,Grey,http://www.oum.ox.ac.uk/corsi/stones/view/847
+28,Granito_Verde,Egypt_and_North_Africa,Wadi Umm Wikala,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/825
+29,Nero_Antico,Egypt_and_North_Africa,Jebel Aziza,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/71
+30,Semesanto,Greece_And_Aegean,Skyros,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/409
+31,Serpentino_Verde,Greece_And_Aegean,Krokees,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/797
+32,Porfido_Rosso,Egypt_and_North_Africa,Gebel Dokhan,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/783
+33,Bianco_e_Nero_Antico,Gaul,Haute Pyrénées,Polychrome,http://www.oum.ox.ac.uk/corsi/stones/view/125
+34,Rosso_di_Verona,Northern_Italy,Val Pantena,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/70
+35,Alpine_Travertine,Northern_Italy,,Grey,Not_Available
+36,Breccia_Chiara,Northern_Italy,,Polychrome,Not_Available
+37,Unprovenanced_Grey_Marble,Not_Available,Unknown,Grey,Not_Available
+38,Alpine_Limestone,Northern_Italy,,Grey,Not_Available
+39,Bardiglio_di_Valdieri,Northern_Italy,Valdieri,Grey,Not_Available
+40,Porfido_Verde,Egypt_and_North_Africa,Gebel Dokhan,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/787
+41,Alabastro_Egiziano,Egypt_and_North_Africa,Hatnub Mallawi,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/294
+42,Musso,Northern_Italy,Musso,Grey,Not_Available
+43,Marmo_Tasio,Greece_And_Aegean,Thasos,White,https://www.oum.ox.ac.uk/corsi/stones/view/5
+44,Selce_di_Roma,Central_Italy_and_Liguria,Capo di Bove,Grey,https://www.oum.ox.ac.uk/corsi/stones/view/668
+45,Alabastro_Ghiaccione,Central_Italy_and_Liguria,Capo di Circeo,White,https://www.oum.ox.ac.uk/corsi/stones/view/304
+46,Diorite_Egiziana,Egypt_and_North_Africa,Gebel Nagug,Polychrome,Not_Available
+47,Granito_Bianco_e_Nero,Egypt_and_North_Africa,Wadi Barud,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/844
+48,Granito_della_Colonna,Egypt_and_North_Africa,Wadi Umm Shegilat,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/813
+49,Granito_del_Wadi,Egypt_and_North_Africa,Wadi Umm Fawakir,Polychrome,Not_Available
+50,Marmo_Lesbio,Greece_And_Aegean,Thasos,White,https://www.oum.ox.ac.uk/corsi/stones/view/6
+51,Granito_Misio,Asia_Minor,Kozak Mountains,Polychrome,https://www.oum.ox.ac.uk/corsi/stones/view/848
+52,Ofite,Egypt_and_North_Africa,Wadi Umm Wikala,Polychrome,Not_Available
+53,Aurisina,Northern_Italy,Aurisina,White,Not_Available
+54,Grigio_Verde,Northern_Italy,,Grey,Not_Available
+55,Bianche_e_Verde,Northern_Italy,Valsesia,Polychrome,Not_Available
+56,Grigio_Azzuro_di_Veneto,Northern_Italy,Veneto,Polychrome,Not_Available
+57,Grigio_Scuro,Northern_Italy,Candoglia,Grey,Not_Available
+58,Bianche_Grigie_e_Rosate,Northern_Italy,,Polychrome,Not_Available
+59,Brecciato_Verde_Pallido,Northern_Italy,,Polychrome,Not_Available
+60,Grigio_Azzuro_di_Valsesia,Northern_Italy,Valsesia,Polychrome,Not_Available
+61,Marmo_Foresto,Northern_Italy,Foresto,White,Not_Available
+62,Alpine_Marble,Northern_Italy,,White,Not_Available

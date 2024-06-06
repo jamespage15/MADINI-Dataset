@@ -1,0 +1,14 @@
+Location_ID,Location_Ancient,Location_Modern,Latitude,Longitude,Coordinates_Uncertain,Harbour,Sea,River,River_Name,River_Navigable,Road,Topography,Comment_Remarks,BA_Map_Reference,Pleiades_URL
+1,Aquileia,Aquileia,45.768945,13.3677735,0,1,1,1,Natisone,Navigable,1,Coastal Plain,,19_F4,https://pleiades.stoa.org/places/187290
+2,Altinum,Altino,45.5462731208,12.3996813934,0,1,1,0,,,1,Coastal Plain,,40_C1,https://pleiades.stoa.org/places/393374
+3,Augusta Praetoria,Aosta,45.737444,7.3161705,0,0,0,0,,,1,Alpine,,39_A2,https://pleiades.stoa.org/places/383579
+4,Augusta Bagiennorum,Bene Vagienna,44.5566760869,7.85034051918,0,0,0,0,,,1,Foothills,,39_B4,https://pleiades.stoa.org/places/383578
+5,Brixia,Brescia,45.539773,10.223135,0,0,0,1,Oglio,Navigable,1,Foothills,,39_G2,https://pleiades.stoa.org/places/383603
+6,Forum Livii,Forlì,44.221277,12.042702,0,0,0,1,Montone,Not_Available,1,Foothills,,40_C4,https://pleiades.stoa.org/places/393426
+7,Novum Comum,Como,45.81192,9.085784,0,0,0,1,,,1,Foothills,,39_E2,https://pleiades.stoa.org/places/383627
+8,Verona,Verona,45.4421295463,10.9957360051,0,0,0,1,Adige,Navigable,1,Foothills,,39_H3,https://pleiades.stoa.org/places/383816
+9,Ravenna,Ravenna,44.415718,12.196604,0,1,1,1,Po,Navigable,1,Coastal Plain,,40_C4,https://pleiades.stoa.org/places/393480
+10,Vercellae,Vercelli,45.321094,8.426374,0,0,0,1,Sesia,Navigable,1,Valley Floor,,39_C3,https://pleiades.stoa.org/places/383815
+11,Mediolanum,Milan,45.463746,9.18806,0,0,0,1,Lammone,Navigable,1,Valley Floor,,39_E3,https://pleiades.stoa.org/places/383706
+12,Forum Fulvii,Villa del Foro,45.012274,8.644186,0,0,0,1,Tanaro,Navigable,1,Valley Floor,,39_D4,https://pleiades.stoa.org/places/383651
+13,Dertona,Tortona,44.897171,8.865452,0,0,0,1,Scrivia,Navigable,1,River Valley,,39_D4,https://pleiades.stoa.org/places/383633

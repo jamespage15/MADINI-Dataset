@@ -1,0 +1,20 @@
+Deposit_ID,Deposit,Lower_Date,Upper_Date,Archaeological_Context,Urban_Rural,Site_Type_1,Site_Type_2,Nature_Deposit,Formation,Deposti_Type,Comment_Remarks
+1,Domus_dei_Putti_Danzanti,300,400,Decoration from a Late Antique Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+2,Domus_delle_Bestie_Ferite,1,350,Decoration from a Late Antique Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+3,Domus_di_Tito_Macro,1,350,Decoration from a Late Antique Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+4,Altinum,-550,640,Unknown,Urban,City,Unknown,,Unknown,Unknown,Material not published stratigraphically
+5,Area_Sacra_di_Foro_di_Augusta_Praetoria,-25,14,Eastern temple of the forum,Urban,City,Temple,,Anthropogenic,Structure,Material not published stratigraphically
+6,Theatre,50,100,Theatre,Urban,City,Theatre,,Anthropogenic,Structure,Material not published stratigraphically
+7,Capitolium,73,74,Capitolium,Urban,City,Temple,,Anthropogenic,Structure,Material not published stratigraphically
+8,via_Curte,-50,300,Decoration from a Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+9,via_Parini,-50,300,Roman layer beneath the medieval walls of the city,Urban,City,Fortification,,Anthropogenic,Structure,
+10,Corte_Sgarzarie,-50,75,Decoration from the Capitolium,Urban,City,Temple,,Anthropogenic,Structure,Material not published stratigraphically
+11,Monte_dei_Pegni,-50,75,Decoration from the Capitolium,Urban,City,Temple,,Anthropogenic,Structure,Material not published stratigraphically
+12,Domus_del_Genio_delle_Acque,75,225,Decoration from a Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+13,Domus_del_Monastero_della_Visitazione,75,225,Decoration from a Domus,Urban,City,Domus,,Anthropogenic,Structure,Material not published stratigraphically
+14,Piazza_Duomo,-90,570,Building Complex,Urban,City,Building Complex,,Anthropogenic,Structure,
+15,via_Tommaso_Grossi,-50,500,Domus,Urban,City,Domus,,Anthropogenic,Structure,
+16,Stazione_Lamamora,-25,400,Residential Building,Urban,City,Residential Building,,Anthropogenic,Structure,
+17,via_Croce_Rossa,-25,125,Canal,Urban,City,Canal,,Anthropogenic,Structure,
+18,via_Rugabella,-25,450,"Basin, Canal, and Buildings",Urban,City,"Basin, Canal, and Buildings",,Anthropogenic,Structure,
+19,Unknown,Unknown,Unknown,Unknown,Urban,City,Unknown,,Unknown,Unknown,Material not published stratigraphically
