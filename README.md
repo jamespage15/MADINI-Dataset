@@ -1,8 +1,11 @@
 # MADINI-Dataset
 The MADINI (Material Data in Northern Italy) dataset consists of three relational databases of amphorae, red-slipped finewares, and decorative stone. In total, 58,743 individual entries are recorded across the dataset from 39 urban sites within Northern Italy. 
+
 The dataset does not claim to be a comprehensive collection of all amphorae, finewares, and decorative stone in marble recovered from published Roman contexts within the region. Instead, it seeks to provide a representative sample of urban assemblages in Northern Italy. 
+
 An analysis of the MADINI dataset can be found in:
-Page, J. (Forthcoming). From the Adriatic to the Alps. Transport and trade in Roman and Late Antique Northern Italy. Oxford: Archaeopress. 
+Page, J. (Forthcoming). *From the Adriatic to the Alps. Transport and trade in Roman and Late Antique Northern Italy*. Oxford: Archaeopress. 
+
 The MADINI dataset of amphorae, finewares, and decorative stone forms a complex, yet powerful tool to analyse trade networks and the economy in Northern Italy. The following sections provides details on the component MADINI databases (AMINI, REFINI, and DESTINI) and the structure of the data within them. 
 
 ## Amphorae in Northern Italy (AMINI)
