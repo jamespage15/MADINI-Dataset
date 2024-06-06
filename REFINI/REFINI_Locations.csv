@@ -1,0 +1,26 @@
+Location_ID,Location_Ancient,Location_Modern,Latitude,Longitude,Coordinates_Uncertain,Harbour,Sea,River,River_Name,River_Navigable,Modern_Province,Topography,Comment_Remarks,BA_Map_Reference,Pleiades_URL
+1,Altinum,Altino,45.55713,12.39076,0,1,Adriatic,0,Not_Available,Not_Available,Veneto,Coastal_Plain,,40_C1,https://pleiades.stoa.org/places/393374
+2,Aquileia,Aquileia,45.46588,13.22404,0,1,Adriatic,1,Natasione,1,Friuli-Venezia_Giulia,Coastal_Plain,,19_F4,https://pleiades.stoa.org/places/187290
+3,Ariminum,Rimini,44.05895,12.56319,0,1,Adriatic,1,Marecchia,0,Emilia_Romagna,Coastal_Plain,,40_D4,https://pleiades.stoa.org/places/393379
+4,Ravenna,Ravenna,44.415718,12.196604,0,1,Adriatic,1,Po,1,Emilia_Romagna,Coastal_Plain,,40_C4,https://pleiades.stoa.org/places/393480
+5,Hatria,Adria,45.0577,12.056195,0,0,Not_Available,1,Po,1,Veneto,Delta,,40_C2,https://pleiades.stoa.org/places/393436
+6,Forum_Livii,Forlì,44.22127,12.0427,0,0,Not_Available,1,Montone,0,Emilia_Romagna,Coastal_Plain,,40_C4,https://pleiades.stoa.org/places/393426
+7,Patavium,Padua,45.40956,11.87697,0,1,Not_Available,1,Brenta,1,Veneto,Coastal_Plain,,40_B2,https://pleiades.stoa.org/places/393473
+8,Iulia_Concordia,Concordia_Sagittaria,45.758285,12.842768,0,0,Not_Available,1,Lemene,1,Veneto,Coastal_Plain,,40_D1,https://pleiades.stoa.org/places/393441
+9,Verona,Verona,45.44212,10.99573,0,0,Not_Available,1,Adige,1,Veneto,River_Valley,,38_H3,https://pleiades.stoa.org/places/383816
+10,Brixia,Brescia,45.53977,10.22313,0,1,Not_Available,1,Oglio,1,Lombardy,Foothills,,39_G2,https://pleiades.stoa.org/places/383603
+11,Mutina,Modena,44.64705,10.92522,0,0,Not_Available,1,Secchia,1,Emilia_Romagna,Valley_Floor,,39_H4,https://pleiades.stoa.org/places/383715
+12,Mediolanum,Milan,45.46374,9.18806,0,1,Not_Available,1,Lambro,1,Lombardy,Valley_Floor,,39_E3,https://pleiades.stoa.org/places/383706
+13,Alba_Pompeia,Alba,44.70083,8.03524,0,0,Not_Available,1,Tanaro,1,Piedmont,River_Valley,,39_C4,https://pleiades.stoa.org/places/383564
+14,Augusta_Bagiennorum,Bene_Vagienna,44.55667,7.85034,0,0,Not_Available,0,Not_Available,Not_Available,Piedmont,Foothills,,39_B4,https://pleiades.stoa.org/places/383578
+15,Aquae_Statiellae,Acqui_Terme,44.67553,8.47065,0,0,Not_Available,1,Bormida_di_Spigno,1,Piedmont,River_Valley,,39_C4,https://pleiades.stoa.org/places/383574
+16,Dertona,Tortona,44.897171,8.865452,0,0,Not_Available,1,Scrivia,1,Piedmont,River_Valley,,39_D4,https://pleiades.stoa.org/places/383633
+17,Bononia,Bologna,44.4945737,11.3455467,0,0,Not_Available,1,Rheno,1,Emilia_Romagna,Foothills,,40_A4,https://pleiades.stoa.org/places/393421
+18,Carreum_Potentia,Cheri,45.011441,7.822544,0,0,Not_Available,0,Not_Available,Not_Available,Piedmont,Foothills,,39_B3,https://pleiades.stoa.org/places/383611
+19,Tridentum,Trento,46.0667685,11.119135,0,0,Not_Available,1,Adige,1,Trentino–Alto Adige,River_Valley,,39_I1,https://pleiades.stoa.org/places/383804
+20,Bedriacum,Calvatone,45.129535,10.442348,0,0,Not_Available,1,Oglio,1,Lombardy,Valley_Floor,,39_G3,https://pleiades.stoa.org/places/383584
+21,Luna,Luna,44.06516,10.02416,0,1,Ligurian,1,Magra,Not_Available,Liguria,Coastal_Plain,,41_C1,https://pleiades.stoa.org/places/403235
+22,Cremona,Cremona,45.13363,10.02614,0,0,Not_Available,1,Po,1,Lombardy,Valley_Floor,,39_G3,https://pleiades.stoa.org/places/383628
+23,Eporedia,Ivrea,45.4666,7.87594,0,1,Not_Available,1,Dora_Baltea,1,Piedmont,River_Valley,,39_B3,https://pleiades.stoa.org/places/383642
+24,Civitas_Camunnorum,Cividate_Camuno,45.94345,10.278604,0,0,Not_Available,1,Oglio,1,Lombardy,River_Valley,,39_G2,https://pleiades.stoa.org/places/383617
+25,Novum_Comum,Como,45.81192,9.08578,0,0,Not_Available,0,Not_Available,Not_Available,Lombardy,Foothills,,39_E2,https://pleiades.stoa.org/places/383627

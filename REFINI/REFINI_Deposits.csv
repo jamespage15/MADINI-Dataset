@@ -1,0 +1,163 @@
+Deposit_ID,Deposit,Lower_Date_Deposit,Upper_Date_Deposit,Archaeological_Context,Urban_Rural,Site_Type_1,Site_Type_2,Nature_Deposit,Formation,Deposit_Type,Comments_Remarks
+1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,This entry is used to specify a deposit where the provenance of the material is unknown beyond a general urban area.
+2,Fase_1,70,275,Natural sedimentation of the canal bed between the Flavian era and the end of the third century. ,Suburban,Canal,Canal,Closed,Natural,Deposit,
+3,Fase_2,275,325,Intentional infilling and burial of the canal. ,Suburban,Canal,Canal,Closed,Anthropogenic,Deposit,
+4,Fase_3,326,450,Agricultural Soil,Rural,Canal,Canal,Open,Natural,Deposit,
+5,ex_Fondi_Cossar,-100,400,The remains of several domus within Aquileia,Urban,Domus,Domus,Unknown,Natural,Deposit,Material not published stratigraphically
+6,via_Gemina,300,550,Late Antique domus and street,Urban,City,Domus and road,Open,Natural,Deposit,
+7,Area dell'Ex Vescovado,-80,400,Domus and buildings,Urban,City,Building,Open,Natural,Deposit,Material not published stratigraphically
+8,Piazza_Anita_Garibaldi_Periodo_1.1-1.2,90,150,Remains of a domus beneath Piazza Anita Garibaldi in Ravenna. ,Urban,City,Domus,Open,Natural,Deposit,
+9,Piazza_Anita_Garibaldi_Periodo_2.1-2.3,600,700,Abandonment layers of a domus beneath Piazza Anita Garibaldi in Ravenna. ,Urban,City,Domus,Open,Natural,Deposit,
+10,Piazza_Anita_Garibaldi_Periodo_3.1-3.4,700,800,Early Medieval restructuring and reuse of the space beneath Piazza Anita Garibaldi in Ravenna. ,Urban,City,Domus,Open,Natural,Deposit,
+11,via_Retratto,-25,200,"Imperial era domus, abandoned by the start of the third century.",Urban,City,Domus,Open,Natural,Deposit,Material not published stratigraphically
+12,via_Curte,-50,300,Two Domus in the city of Forum Livii,Urban,City,Domus,Open,Natural,Deposit,Material not published stratigraphically
+13,Necropolis_E7,-15,125,Suburban necropolis in the eastern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+14,Necropolis_E23,-15,150,Suburban necropolis in the eastern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+15,Necropolis_E19,1,200,Suburban necropolis in the eastern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+16,Necropolis_E17b,-25,50,Suburban necropolis in the eastern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+17,Necropolis_E24,-30,110,Suburban necropolis in the eastern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+18,Necropolis_S14b,-25,125,Suburban necropolis in the southern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+19,Necropolis_S16,1,50,Suburban necropolis in the northern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+20,Necropolis_N20,1,100,Suburban necropolis in the northern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+21,Necropolis_N21,1,100,Suburban necropolis in the northern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+22,Necropolis_N24b,-25,125,Suburban necropolis in the northern sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+23,Necropolis_O1,50,125,Suburban necropolis in the western sector of Padua,Suburban,City,Necropolis,Closed,Anthropogenic,Deposit,
+24,Iulia_Concordia,-42,400,Misc. urban excavations around Concordia Sagittaria.,Urban,City,Unknown,Unknown,Unknown,Deposit,Material not published stratigraphically
+25,Capitolium_di_Verona,-25,450,Deposits recovered through numerous excavations of the capitolium at Verona,Urban,City,Temple,Open,Natural,Deposit,Material not published stratigraphically
+26,Capitolium_Periodo_III,1,350,Occupation of the capitolium area,Urban,City,Temple,Open,Natural,Deposit,
+27,Capitolium_Periodo_IV.1,350,500,Abandonment and partial destruction of the temple complex,Urban,City,Temple,Open,Natural,Deposit,
+28,Capitolium_Periodo_IV.2,500,550,Systematic destruction of the capitolium,Urban,City,Temple,Open,Natural,Deposit,
+29,Capitolium_Periodo_V,550,775,Early Medieval occupation,Urban,City,Building,Open,Natural,Deposit,
+30,Capitolium_Periodo_VI,775,1250,Construction of a tower and other buildings,Urban,City,Buildings,Open,Natural,Deposit,
+31,Capitolium_Periodo_VII,1250,1350,Construction of romanesque buildings,Urban,City,Buildings,Open,Natural,Deposit,
+32,Santa_Giulia_Periodo_II,-27,450,Roman habitation to the north of the decumanus of Brescia.,Urban,City,Domus,Open,Natural,Deposit,
+33,Santa_Giulia_Periodo_IIIA,450,568,Degradation of the domus,Urban,City,Domus,Open,Natural,Deposit,
+34,Santa_Giulia_Periodo_IIIB,568,680,Lombard occupation of the domus,Urban,City,Domus,Open,Natural,Deposit,
+35,Santa_Giulia_Periodo_IVA,680,750,Urban reorganisation of the Santa_Giulia area. Construction of a church and two other buildings.,Urban,City,Buildings,Open,Natural,Deposit,
+36,Santa_Giulia_Periodo_IVB,750,1100,Early Medieval occupation,Urban,City,Buildings,Open,Natural,Deposit,
+37,Santa_Giulia,-27,1100,Roman domus and Early Medieval occupation.,Urban,City,Domus,Open,Natural,Deposit,Material not published stratigraphically
+38,Capitolium_di_Brescia,70,750,Capitolium,Urban,City,Temple,Open,Natural,Deposit,Material not published stratigraphically
+39,Modena_Misc_Excavations,-183,400,Misc. urban excavations around Modena.,Urban,City,Unknown,Unknown,Unknown,Deposit,Material not published stratigraphically
+40,Vasca_circolare_area_NE,1,50,Infilling of a large circular tank with amphorae and other rubbish.,Urban,City,Rubbish deposit,Open,Anthropogenic,Deposit,
+41,Anfore_dalla_buca_NW,50,150,Group of amphora used to infill a large hole in the area occupied by Parco Novi Sad.,Urban,City,Amphora reclamation deposit,Closed,Anthropogenic,Structure,
+42,Anfore_dalla_bonifica_SW,50,150,Amphora reclamation deposit,Urban,City,Amphora reclamation deposit,Closed,Anthropogenic,Structure,
+43,Anfore_dalla_bonifica_SE,50,150,Amphora reclamation deposit,Urban,City,Amphora reclamation deposit,Closed,Anthropogenic,Structure,
+44,Stazione_Lamarmora_Ia,-25,50,Construction of a great rectangular base,Urban,City,Foundations,Open,Anthropogenic,Structure,
+45,Stazione_Lamarmora_Ib,100,200,Construction and occupation phase of a residential building,Urban,City,Domus,Open,Natural,Deposit,
+46,Stazione_Lamarmora_II,375,400,Levelling of the area and construction of a triumphal arch,Urban,City,Levelling layer and foundation of triumphal arch,Open,Anthropogenic,Deposit,
+47,Stazione_Lamarmora_III,500,2000,Post Roman activity,Urban,City,Later surfaces,Open,Natural,Deposit,
+48,via_Croce_Rossa_I,-25,125,Cutting of a canal and development of a canalside area.,Urban,City,Canal,Open,Anthropogenic,Structure,
+49,via_Croce_Rossa_II,150,300,Sporadic activity and swampification of the canalside area.,Urban,City,Canal,Open,Natural,Deposit,
+50,via_Croce_Rossa_III,300,500,Construction of the Maximian Wall.,Urban,City,City Wall and Canal,Open,Anthropogenic,Structure,
+51,via_Croce_Rossa_IV,500,1200,Progressive swampification outside the wall.,Urban,City,City Wall and Canal,Open,Natural,Deposit,
+52,via_Croce_Rossa_V,1400,1600,Construction of a conduet for the Severso through the wall.,Urban,City,City Wall and Canal,Open,Anthropogenic,Structure,
+53,via_Croce_Rossa_VI,1800,1900,Post Roman activity,Urban,City,Later surfaces and cuts,Open,Natural,Deposit,
+54,via_Croce_Rossa_VII,1900,2000,Post Roman activity,Urban,City,Later surfaces and cuts,Open,Natural,Deposit,
+55,via_Tommaso_Grossi_I,-50,35,Construction and occupation phase of a residential building,Urban,City,Domus,Open,Anthropogenic,Structure,
+56,via_Tommaso_Grossi_II,35,125,Creation of a domus,Urban,City,Domus,Open,Natural,Structure,
+57,via_Tommaso_Grossi_III,300,400,Open area of poor quality floor surfaces and channels,Urban,City,Open area,Open,Anthropogenic,Structure,
+58,via_Tommaso_Grossi_IV,350,500,Building with a portico along a road,Urban,City,Building,Open,Anthropogenic,Structure,
+59,via_Tommaso_Grossi_Va,425,600,Spoliation and black earth,Urban,City,Collapse and black earth,Open,Natural,Deposit,
+60,via_Tommaso_Grossi_Vb,425,575,Ditches,Urban,City,Ditches,Open,Anthropogenic,Structure,
+61,via_Tommaso_Grossi_Vc,575,1500,Later buildings,Urban,City,Building,Open,Anthropogenic,Structure,
+62,via_Tommaso_Grossi_VI,1500,1867,Post Classical interventions,Urban,City,Later surfaces and cuts,Open,Natural,Deposit,
+63,via_Rugabella_I,-27,14,"Creation of a large basin, filling in of the basin, and construction of a wall. ",Urban,City,Multi-use,Open,Anthropogenic,Structure,
+64,via_Rugabella_II,14,50,Demolition of the wall and construction of a small canal associated with a building.,Urban,City,Multi-use,Open,Anthropogenic,Structure,
+65,via_Rugabella_III,50,125,Demolition of the building for mortar use. Construction of a new building. Destruction of the building.,Urban,City,Multi-use,Open,Anthropogenic,Structure,
+66,via_Rugabella_IV,300,350,Abandoment of the site. ,Urban,City,Abandoment layer,Open,Natural,Deposit,
+67,via_Rugabella_V,350,450,Construction of the via Porticata and associated buildings.,Urban,City,Multi-use,Open,Anthropogenic,Structure,
+68,via_Rugabella_VI,450,550,Demolition of the via Porticata.,Urban,City,Demolition layer,Open,Anthropogenic,Deposit,
+69,via_Rugabella_VII,525,575,Abandoment of the site.,Urban,City,Abandoment layer,Open,Natural,Deposit,
+70,via_Rugabella_VIII,550,600,Levelling of the area. ,Urban,City,Levelling layer,Open,Anthropogenic,Deposit,
+71,Piazza_Duomo_I,-90,-40,Horticultural activity?,Urban,City,Garden,Open,Natural,Deposit,
+72,Piazza_Duomo_IIa,-50,-30,Construction of a building (domus?),Urban,City,Domus,Open,Anthropogenic,Structure,
+73,Piazza_Duomo_IIb,-30,50,Garden use and building occupation,Urban,City,Domus,Open,Natural,Deposit,
+74,Piazza_Duomo_IIc,25,50,Modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+75,Piazza_Duomo_IId,65,95,Destruction of the first building.,Urban,City,Demolition layer,Open,Anthropogenic,Structure,
+76,Piazza_Duomo_IIIa,85,120,Construction of a new complex.,Urban,City,Domus,Open,Anthropogenic,Structure,
+77,Piazza_Duomo_IIIb,335,385,Modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+78,Piazza_Duomo_IIIb-c,275,350,Reconstruction of the entrance and other parts of the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+79,Piazza_Duomo_IIIc,350,450,Modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+80,Piazza_Duomo_IVa,425,450,Restructuring of the complex,Urban,City,Domus,Open,Anthropogenic,Structure,
+81,Piazza_Duomo_IVb,440,540,Modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+82,Piazza_Duomo_IVc,485,555,Modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+83,Piazza_Duomo_IVd,500,570,Occupation layer of the building.,Urban,City,Domus,Open,Natural,Deposit,
+84,Piazza_Duomo_IVe,515,585,Final modifications to the building.,Urban,City,Domus,Open,Anthropogenic,Structure,
+85,Piazza_Duomo_Va,530,625,Demolition of the building and complex.,Urban,City,Demolition layer,Open,Anthropogenic,Structure,
+86,Piazza_Duomo_Vb,530,725,Construction of a wooden structure.,Urban,City,Building,Open,Anthropogenic,Structure,
+87,Piazza_Duomo_VI,575,800,Post Roman activity,Urban,City,Post Roman Activity,Open,Natural,Deposit,
+88,Piazza_Duomo_VII-XII,700,2000,Post Roman activity,Urban,City,Post Roman Activity,Open,Natural,Deposit,
+89,Alba_Pompeia,Not_Available,Not_Available,Misc. urban excavations around Alba.,Urban,City,Unknown,Unknown,Unknown,Deposit,Material not published stratigraphically
+90,Augusta_Bagiennorum,Not_Available,Not_Available,Urban excavations,Urban,City,Unknown,Unknown,Unknown,Deposit,Material not published stratigraphically
+91,Augusto_Scovazzi,Not_Available,Not_Available,Finds from archaeological collection of Augusto Scovazzi excavated in Acqui Terme,Urban,City,Unknown,Unknown,Unknown,Deposit,Material not published stratigraphically
+92,Acqui_Terme_Foro,Not_Available,Not_Available,Finds from the excavation of the forum at Acqui Terme,Urban,City,Forum,Unknown,Unknown,Deposit,Material not published stratigraphically
+93,Necropoleis_of_Dertona,-100,125,Necropoleis around the city of Dertona,Urban,City,Necropolis,Closed,Anthropogenic,Deposit,Material not published stratigraphically
+94,Bononia_Teatro,Not_Available,Not_Available,Finds from the excavation of the theatre at Bologna,Urban,City,Theatre,Unknown,Unknown,Deposit,Material not published stratigraphically
+95,Maddalene,-50,150,Suburban complex of buildings. Finds come from a neighbouring drainage ditch,Suburban,City,Drainage ditch,Open,Natural,Deposit,Material not published stratigraphically
+96,Palazzo_Tabarelli,-50,400,Remains of a domus beneath the Palazzo Tabarelli in the city of Tridentum,Urban,City,Domus,Open,Natural,Deposit,Material not published stratigraphically
+97,Saggio_6_Coltivo_I,-50,25,Domus,Urban,City,Domus,Open,Natural,Deposit,
+98,Saggio_6_Coltivo_II,25,100,Domus,Urban,City,Domus,Open,Natural,Deposit,
+99,Saggio_6_Coltivo_II,Not_Available,Not_Available,Domus,Urban,City,Domus,Open,Natural,Deposit,
+100,Saggio_6_Coltivo_III,100,160,Domus,Urban,City,Domus,Open,Natural,Deposit,
+101,Strada_Porticata,Not_Available,Not_Available,Porticoed street in the northern sector of Bedriacum,Urban,City,Street,Open,Natural,Deposit,Material not published stratigraphically
+102,Forum_and_area_to_the_south,Not_Available,Not_Available,Forum of Luna and insula to its south,Urban,City,Forum and associated buildings,Open,Natural,Deposit,Material not published stratigraphically
+103,CM_I_A,50,70,Underlayment and foundation for an opus sectile floor in a domus,Urban,City,Domus,Sealed,Anthropogenic,Structure,
+104,CM_I_B,-50,50,Infilling of space within the domus with a dark earth,Urban,City,Domus,Open,Natural,Deposit,
+105,CM_II_A1,500,600,Abandonment layer in the piazza ,Urban,City,Piazza,Open,Natural,Deposit,
+106,CM_II_A,50,70,Levelling layer to raise the elevatio of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+107,CM_II_B,40,50,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+108,CM_II_C,40,50,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+109,CM_II_D,-1,40,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+110,CM_III_A,50,70,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+111,CM_III_B,40,50,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+112,CM_III_D,-1,40,Levelling layer to raise the elevation of the piazza,Urban,City,Piazza,Open,Anthropogenic,Structure,
+113,CM_IV.1-4,350,400,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+114,CM_IV.5,75,100,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+115,CM_V_B,375,425,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+116,CM_V_D,375,400,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+117,CM_V_E,100,225,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+118,CM_VI_C,350,425,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+119,CM_VI_D,350,400,Garden of the Domus,Urban,City,Domus,Open,Natural,Deposit,
+120,CM_VI_F,1,100,Garden wall,Urban,City,Domus,Open,Anthropogenic,Structure,
+121,CM_VII.1_B,300,350,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+122,CM_VII.1_C,350,400,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+123,CM_VII.1_D,325,375,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+124,CM_VII.2_B,350,400,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+125,CM_VII.2_C,250,350,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+126,CM_VII.3_D,325,375,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+127,CM_VII.3_G,300,350,Late Antique potico of a domus,Urban,City,Domus,Open,Natural,Deposit,
+128,CM_VIII_B,175,225,Kitchen,Urban,City,Domus,Open,Natural,Deposit,
+129,CM_VIII_C,175,200,Kitchen,Urban,City,Domus,Open,Natural,Deposit,
+130,CM_VIII.1_B,250,350,Latrine,Urban,City,Domus,Open,Natural,Deposit,
+131,CM_VIII.1_C,175,200,Latrine,Urban,City,Domus,Open,Natural,Deposit,
+132,CM_VIII.1_D,1,100,Latrine,Urban,City,Domus,Open,Natural,Deposit,
+133,CM_VIII.2,225,275,Basin,Urban,City,Domus,Open,Natural,Deposit,
+134,CM_VIII.3,175,200,Basin/cistern,Urban,City,Domus,Open,Natural,Deposit,
+135,CM_VIII.4,100,200,Basin,Urban,City,Domus,Open,Natural,Deposit,
+136,CS_A,Not_Available,Not_Available,Capitolium,Urban,City,Temple,Open,Natural,Deposit,
+137,CS_B_II,150,200,Capitolium,Urban,City,Temple,Open,Natural,Deposit,
+138,CS_B_III,70,150,Capitolium,Urban,City,Temple,Open,Natural,Deposit,
+139,CS_B_IV,-27,70,Capitolium,Urban,City,Temple,Open,Natural,Deposit,
+140,via_Garibotti,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+141,via_dei_Mille,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+142,Galleria_Kennedy,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+143,via_Platina,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+144,Piazza_Roma,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+145,Piazza_Cavour,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+146,via_Cadolini,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+147,via_Speciano-S._Lorenzo,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+148,Piazza_Marconi,Not_Available,Not_Available,Not_Available,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+149,Ivrea_Misc_Excavations,Not_Available,Not_Available,Various urban excavations carried out in the city centre of Ivrea,Urban,City,Unknown,Unknown,Unknown,Unknown,Material not published stratigraphically
+150,Periodo_III_Fase_A.1a,70,125,Construction of a third building in the insula.,Urban,City,Building in an insula,Open,Anthropogenic,Deposit,
+151,Periodo_III_Fase_A.1b,70,125,Paving of the deumanus in basalt.,Urban,City,Road,Open,Anthropogenic,Structure,
+152,Cividate_Camuno_Fase_3,-50,50,First phase of settlement in the Roman era. ,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+153,Cividate_Camuno_Fase_4,50,250,Construction and life span of the theatre and amphitheatre,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+154,Cividate_Camuno_Fase_5,250,450,Late Antique occupation,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+155,Cividate_Camuno_Fase_6,450,700,Abandonment and spoliation of the site,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+156,Cividate_Camuno_Fase_7,700,1950,Agricultural use of the site,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+157,Cividate_Camuno_Fase_8,1950,2000,Modern era,Urban,City,Theatre and amphitheatre,Open,Natural,Deposit,
+158,via_Benzi,Not_Available,Not_Available,,,,,,,Deposit,
+159,Università_Cattolica_US_1098,500,900,A layer of so-called 'dark earth',Suburban,City,Building,Open,Natural,Deposit,
+160,Battistero del Duomo di Padova,300,900,Baptistry and graveyard,Urban,City,Baptistry,Open,Natural,Deposit,Material not published stratigraphically
+161,Corso_Botta,Not_Available,Not_Available,Insula,Urban,City,Insula,Open,Natural,Deposit,Material not published stratigraphically
+162,Amphitheatre,Not_Available,Not_Available,Amphitheatre,Urban,City,Amphitheatre,Open,Natural,Deposit,Material not published stratigraphically
